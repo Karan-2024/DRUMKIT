@@ -58,7 +58,7 @@ function makeSound(key)
     break;
 
     case "l":
-     var kick=new Audio("kick-bass.mp3");
+     var kick=new Audio("Alchemist HiHat 8.wav");
      kick.play();
     break;
     
